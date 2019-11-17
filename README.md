@@ -4,6 +4,7 @@
 |Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- | ------------- |
 |[CADA](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR 19 |**97.0**      |**95.6**         |71.5         |73.1         |**100.0**        |**99.3**         | 
+|[SAFN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.pdf)          | Conference name |90.3      |92.1         |73.4         |71.2         |100.0        |98.7         | 
 |[JADA](https://dl.acm.org/citation.cfm?id=3351070) |ACM-MM 19| 90.5  |--  | --  |--    | 100.0  | 97.5  |
 |[3CATN](https://dl.acm.org/citation.cfm?id=3350902) | ACM-MM 19 |95.3      |94.1         |73.1         |71.5         |100        |99.3         | 
 |[DSR](https://www.ijcai.org/proceedings/2019/0285.pdf)| IJCAI19 |93.1      | 92.4         |73.5         |**73.9**         |99.8        | 98.7        | 
@@ -19,7 +20,7 @@
 |[MADA](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)          |AAAI18 |90.0     |87.8         |70.3         |66.4         |99.6        |97.4         | 
 
 
-
+## Office -31 Dataset(Alexnet Architecture)
 
 |Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- | ------------- |
