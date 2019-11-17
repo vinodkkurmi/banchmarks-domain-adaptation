@@ -35,18 +35,4 @@
 
 
 ## Office -31 Dataset(Alexnet Architecture)
-
-|Paper          | Conference name |A--> W      |88.7         |72.6         |70.9         | 100        |98.9         | 
-| ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |Content Cell  | Content Cell  |
+will updates soon :)
