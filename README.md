@@ -1,7 +1,7 @@
 # Banchmarks-domain-adaptation
 ## Office -31 Dataset(ResNet Architecture)
 
-|Paper          | Conference name |A &rightarrow; W      |A &rightarrow D         |D &rightarrow A         |W &rightarrow A         |W&rightarrowD        |D&rightarrow W  | 
+|Paper          | Conference name |A &rightarrow; W      |A &rightarrow; D         |D &rightarrow; A         |W &rightarrow; A         |W&rightarrow;D        |D&rightarrow; W  | 
 | ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- | ------------- |
 |[CADA](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kurmi_Attending_to_Discriminative_Certainty_for_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR 19 |**97.0**      |**95.6**         |71.5         |73.1         |**100.0**        |**99.3**         | 
 |[SAFN](http://openaccess.thecvf.com/content_ICCV_2019/papers/Xu_Larger_Norm_More_Transferable_An_Adaptive_Feature_Norm_Approach_for_ICCV_2019_paper.pdf)          | ICCV19 |90.3      |92.1         |73.4         |71.2         |100.0        |98.7         | 
