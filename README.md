@@ -9,7 +9,7 @@
 |[3CATN](https://dl.acm.org/citation.cfm?id=3350902) | ACM-MM 19 |95.3      |94.1         |73.1         |71.5         |100        |99.3         | 
 |[DSR](https://www.ijcai.org/proceedings/2019/0285.pdf)| IJCAI19 |93.1      | 92.4         |73.5         |73.9         |99.8        | 98.7        | 
 |[CAT](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf)          | ICCV 19 |94.4      |90.8         |72.2        |70.2         |100.0        | 98.0         | 
-|[BSP](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf)          | ICML 2019 |93.3      |93.0    |     73.6         |72.6         |100.0        |98.2         | 
+|[BSP](http://proceedings.mlr.press/v97/chen19i/chen19i.pdf)          | ICML19 |93.3      |93.0    |     73.6         |72.6         |100.0        |98.2         | 
 |[SymNets](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Domain-Symmetric_Networks_for_Adversarial_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19 | 90.8      |93.9         |74.6         |72.5 |100.0        |98.8         | 
 |[TADA](http://ise.thss.tsinghua.edu.cn/~mlong/doc/transferable-attention-aaai19.pdf)          | AAAI19 |94.3      |91.6         | 72.9         |73.0         |99.8|98.7       | 
 |[DAAA](http://openaccess.thecvf.com/content_ECCV_2018/papers/Guoliang_Kang_Deep_Adversarial_Attention_ECCV_2018_paper.pdf)          | ECCV18 |87.1      |88.8         |74.3         |73.9         |100       |99.3         | 
