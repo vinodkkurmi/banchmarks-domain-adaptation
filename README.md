@@ -19,6 +19,9 @@
 |[G2A](https://arxiv.org/pdf/1704.01705.pdf)          | CVPR18 |89.5      |87.7          |72.8         |71.4         |99.8        |97.9         | 
 |[MADA](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)          |AAAI18 |90.0     |87.8         |70.3         |66.4         |99.6        |97.4         | 
 |[MRKLD](https://arxiv.org/pdf/1908.09822.pdf)          | ICCV19 | 89.4      |88.7         |72.6         |70.9         | 100        |98.9         |
+|[DSBN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Domain-Specific_Batch_Normalization_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19e | 93.3      |90.8         |72.7  |73.9         |100.0        |99.1         | 
+|[CAN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19 |94.5      |95.0         | 78.0         |77.0         | 99.8        |99.1         | 
+|Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
 
 
 ## Office -31 Dataset(Alexnet Architecture)
