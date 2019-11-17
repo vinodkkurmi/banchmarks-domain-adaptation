@@ -1,4 +1,4 @@
-# Banchmarks-domain-adaptation
+# Banchmarks-Domain-Adaptation
 
 #### Link to Download Datasets
 - [Office -31](https://pan.baidu.com/s/1o8igXT4)
