@@ -16,7 +16,7 @@
 |[iCAN](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Collaborative_and_Adversarial_CVPR_2018_paper.pdf)          | CVPR18 |92.5      |90.1        | 72.1         | 69.9         | 100.0        | 98.8         | 
 |[G2A](https://arxiv.org/pdf/1704.01705.pdf)          | CVPR18 |89.5      |87.7          |72.8         |71.4         |99.8        |97.9         | 
 |[MADA](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)          |AAAI18 |90.0     |87.8         |70.3         |66.4         |99.6        |97.4         | 
-|Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
+|[JADA](https://arxiv.org/pdf/1808.09347v2.pdf)          | AAAI19 |82.6      |79.8      |57.4         |66.7         |99.7        |95.2         | 
 |Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
 |Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
 
