@@ -8,6 +8,7 @@
 |[MRKLD](https://arxiv.org/pdf/1908.09822.pdf)          | ICCV19 | 89.4      |88.7         |72.6         |70.9         | 100        |98.9         |
 |[DSBN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chang_Domain-Specific_Batch_Normalization_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19 | 93.3      |90.8         |72.7  |73.9         |100.0        |99.1         | 
 |[CAN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Kang_Contrastive_Adaptation_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19 |94.5      |95.0         | **78.0**         |**77.0**         | 99.8        |99.1         | 
+|[MDD](http://proceedings.mlr.press/v97/zhang19i/zhang19i.pdf)          | ICML19 |94.5      |93.5         |74.6        |72.2         |100.0        |98.4         | 
 |[JADA](https://dl.acm.org/citation.cfm?id=3351070) |ACM-MM 19| 90.5  |--  | --  |--    | 100.0  | 97.5  |
 |[3CATN](https://dl.acm.org/citation.cfm?id=3350902) | ACM-MM 19 |95.3      |94.1         |73.1         |71.5         |100        |99.3         | 
 |[DSR](https://www.ijcai.org/proceedings/2019/0285.pdf)| IJCAI19 |93.1      | 92.4         |73.5         |73.9         |99.8        | 98.7        | 
@@ -21,6 +22,11 @@
 |[iCAN](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Collaborative_and_Adversarial_CVPR_2018_paper.pdf)          | CVPR18 |92.5      |90.1        | 72.1         | 69.9         | 100.0        | 98.8         | 
 |[G2A](https://arxiv.org/pdf/1704.01705.pdf)          | CVPR18 |89.5      |87.7          |72.8         |71.4         |99.8        |97.9         | 
 |[MADA](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)          |AAAI18 |90.0     |87.8         |70.3         |66.4         |99.6        |97.4         | 
+<!---
+|[PADA](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) | ECCV18 |86.5   |82.1         |92.6         |W--> A         | 100        | 99.3         | 
+|Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
+|Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
+-->
 
 
 
