@@ -23,9 +23,7 @@
 |[G2A](https://arxiv.org/pdf/1704.01705.pdf)          | CVPR18 |89.5      |87.7          |72.8         |71.4         |99.8        |97.9         | 
 |[MADA](http://ise.thss.tsinghua.edu.cn/~mlong/doc/multi-adversarial-domain-adaptation-aaai18.pdf)          |AAAI18 |90.0     |87.8         |70.3         |66.4         |99.6        |97.4         | 
 <!---
-|[PADA](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) | ECCV18 |86.5   |82.1         |92.6         |W--> A         | 100        | 99.3         | 
-|Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
-|Paper          | Conference name |A--> W      |A--> D         |D--> A         |W--> A         |W--> D        |D--> W         | 
+|[PADA](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhangjie_Cao_Partial_Adversarial_Domain_ECCV_2018_paper.pdf) | ECCV18 |86.5   |82.1         |92.6         |      | 100        | 99.3         | 
 -->
 
 
