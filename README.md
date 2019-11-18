@@ -35,4 +35,13 @@
 
 
 ## Office -31 Dataset(Alexnet Architecture)
-will updates soon :)
+will update soon :)
+
+## Office Home Dataset(ResNet Architecture)
+will update soon :)
+
+## ImageClef Dataset(ResNet Architecture)
+will update soon :)
+
+## ImageClef Dataset(Alexnet Architecture)
+will update soon :)
