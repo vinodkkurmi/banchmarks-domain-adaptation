@@ -35,8 +35,14 @@
 
 
 ## Office -31 Dataset(Alexnet Architecture)
-will update soon :)
+|Paper          | Conference name |A &rightarrow; W      |A &rightarrow; D         |D &rightarrow; A         |W &rightarrow; A         |W&rightarrow;D        |D&rightarrow; W  | 
+| ------------- | ------------- | -------------| ------------- | ------------- | ------------- | ------------- | ------------- |
 
+
+|[CAT](http://openaccess.thecvf.com/content_ICCV_2019/papers/Deng_Cluster_Alignment_With_a_Teacher_for_Unsupervised_Domain_Adaptation_ICCV_2019_paper.pdf)          |ICCV19|80.7      |76.4         |63.7        |62.2        |100.0       97.6 | 
+|[GCAN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ma_GCAN_Graph_Convolutional_Adversarial_Network_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19 |82.7      | 76.4         | 64.9         |62.6         | 99.8        | 97.1  | 
+|[PFAN](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Progressive_Feature_Alignment_for_Unsupervised_Domain_Adaptation_CVPR_2019_paper.pdf)          | CVPR19 |83.0     |76.3          |63.3        |60.8        |99.9       |99.0 | 
+|[CDAN](http://papers.nips.cc/paper/7436-conditional-adversarial-domain-adaptation.pdf)          | NIPS18 |78.3     |76.3     |57.3     | 57.3        |100.0       |97.2  | 
 ## Office Home Dataset(ResNet Architecture)
 will update soon :)
 
